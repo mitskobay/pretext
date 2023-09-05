@@ -18,9 +18,9 @@
     <frontmatter xml:id="frontmatter">
       <titlepage>
         <author>
-          <personname>You</personname>
-          <department>Your department</department>
-          <institution>Your institution</institution>
+          <personname>Mits</personname>
+          <department>Department of Mathematics</department>
+          <institution>Dartmouth College</institution>
         </author>
         <date>
           <today />
@@ -52,6 +52,7 @@
       <section xml:id="section-title">
         <title>Section title</title>
         <p>Hello</p>
+        <p>Hello again</p>
       </section>
 
     </chapter>
